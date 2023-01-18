@@ -1,0 +1,8 @@
+C:\Users\ionut.dinca\source\repos\MyGeneric\MyGeneric\bin\Debug\MyGeneric.exe.config
+C:\Users\ionut.dinca\source\repos\MyGeneric\MyGeneric\bin\Debug\MyGeneric.exe
+C:\Users\ionut.dinca\source\repos\MyGeneric\MyGeneric\bin\Debug\MyGeneric.pdb
+C:\Users\ionut.dinca\source\repos\MyGeneric\MyGeneric\obj\Debug\MyGeneric.csproj.AssemblyReference.cache
+C:\Users\ionut.dinca\source\repos\MyGeneric\MyGeneric\obj\Debug\MyGeneric.csproj.SuggestedBindingRedirects.cache
+C:\Users\ionut.dinca\source\repos\MyGeneric\MyGeneric\obj\Debug\MyGeneric.csproj.CoreCompileInputs.cache
+C:\Users\ionut.dinca\source\repos\MyGeneric\MyGeneric\obj\Debug\MyGeneric.exe
+C:\Users\ionut.dinca\source\repos\MyGeneric\MyGeneric\obj\Debug\MyGeneric.pdb
